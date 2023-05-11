@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sidthecoder2
-- 👀 I’m interested in Computer Science and UI/UX Design.
-- 🌱 I’m currently learning UI/UX and Programming in Python
-- 💞️ I’m looking to collaborate on Front End developing 
+- 👋 Hi, I’m Siddhartha Srivastava
+- 👀 I’m a Computer Science Student
+- 🌱 I’m currently working on Python Programming and UI/UX
+- 💞️ I’m looking to collaborate on new projects on Data Science 
 - 📫 How to reach me?  Email: sidsri200205@gmail.com
 
 <!---
