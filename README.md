@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Siddhartha Srivastava
 - 👀 I’m a Computer Science Student
 - 🌱 I’m currently working on Python Programming and UI/UX
-- 💞️ I’m looking to collaborate on new projects on Data Science 
+- 💞️ I’m looking to collaborate on new projects in Data Science 
 - 📫 How to reach me?  Email: sidsri200205@gmail.com
 
 <!---
